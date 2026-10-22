@@ -265,6 +265,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Have I Been Pwned](https://haveibeenpwned.com/) - Check whether an email address appears in known breaches.
 - [Incogni](https://incogni.com/) - Paid data broker removal service.
 - [JustDeleteMe](https://justdeleteme.xyz/) - Directory of account deletion links and difficulty ratings.
+- [MailMop](https://mailmop.com/) - Gmail cleanup tool that analyzes the inbox in the browser and bulk unsubscribes or deletes by sender.
 - [Mozilla Monitor](https://monitor.mozilla.org/) - Breach alerts and exposure guidance from Mozilla.
 - [Paperweight](https://www.paperweight.email/) - Mass email unsubscribe, and data deletion tool.
 - [Simple Opt Out](https://simpleoptout.com/) - Directory of opt-out links for data sharing and marketing programs.
